@@ -1,5 +1,5 @@
-streamlit==1.37.0
-python-dotenv==1.0.0
-cohere==2.0.0
-trulens_eval==0.33.0  # Ensure this version is correct
-huggingface-hub==0.13.0  # Adjust version as needed
+streamlit==1.34.0
+python-dotenv==1.0.1
+cohere==5.5.8
+trulens_eval==0.32.0  # Ensure this version is correct
+huggingface-hub==0.23.4  # Adjust version as needed
