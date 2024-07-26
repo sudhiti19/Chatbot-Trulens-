@@ -3,6 +3,8 @@ import streamlit as st
 import os
 import cohere
 from trulens_eval import TruChain, Feedback, Huggingface, Tru
+import trulens_eval
+
 
 # Load environment variables from .env file
 load_dotenv()
